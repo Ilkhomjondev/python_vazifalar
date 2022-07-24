@@ -1,2 +1,2 @@
 # python_vazifalar
-Python basic bosqichida olgan vazifalarimning javoblari.
+Python kursining basic bosqichida olgan vazifalarimning javoblari.
